@@ -31,3 +31,7 @@ let isAlive = function(playerName, points) {
         return false;
     }
 } 
+
+const retorno =  () => {
+ return true;
+}

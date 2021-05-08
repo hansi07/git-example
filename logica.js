@@ -24,8 +24,8 @@ function isAlive(playerName, points) {
     }
 }
 */
-let isAlive = function(playerName, points) {
-    if (playerName == 'ikk' && points > 30 || (playerName == 'gut' && points > 10)) {
+let isAlive2 = function(playerName, pointspo) {
+    if (playerName == 'ikk' && pointspo > 30 || (playerName == 'gut' && pointspo > 10)) {
         return true;
     } else {
         return false;

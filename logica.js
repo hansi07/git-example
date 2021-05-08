@@ -30,14 +30,6 @@ let isAlive2 = function(playerName, pointspo) {
     } else {
         return false;
     }
-} 
-
-const retorno3 =  (a, b) => {
- return a + b;
 }
 
-retorno3(1, 9);
-
-function paradise(enigma) {
-    return enigma;
-}
+isAlive2();

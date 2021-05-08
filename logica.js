@@ -37,3 +37,7 @@ const retorno3 =  (a, b) => {
 }
 
 retorno3(1, 9);
+
+function paradise(enigma) {
+    return enigma;
+}

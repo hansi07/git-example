@@ -32,6 +32,8 @@ let isAlive = function(playerName, points) {
     }
 } 
 
-const retorno =  () => {
- return true;
+const retorno3 =  (a, b) => {
+ return a + b;
 }
+
+retorno3(1, 9);
